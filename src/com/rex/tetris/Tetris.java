@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 /**
- * 俄罗斯方块游戏面板123
+ * 俄罗斯方块游戏面板1234
  *
  */
 public class Tetris extends JPanel {
